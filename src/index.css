@@ -30,3 +30,7 @@ footer {
   background: #f8f9fa;
   border-radius: 4px;
 }
+
+.button-container {
+  text-align: left;
+}
